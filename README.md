@@ -1,2 +1,2 @@
-Este repositorio para apprender a usar github
+Este repositorio es para aprender a usar github
 No se si estoy entendiendo 
